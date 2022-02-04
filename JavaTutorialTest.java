@@ -4,6 +4,6 @@ import org.junit.*;
 public class JavaTutorialTest {
     @Test
     public void multTest() {
-        assertEquals(6, JavaTutorial.mult(2, 2));
+        assertEquals(6, JavaTutorial.mult(2, 3));
     }
 }
